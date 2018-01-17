@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Swift 30 Projects
 
 ![Cover](./Cover.jpg)
@@ -42,3 +43,7 @@ Also, **unit tests** will be added to ensure the quality of the codebase.
 Twitter: [@guyindaozhang](https://twitter.com/guyindaozhang)<br />
 Weibo: [@故胤道长](http://weibo.com/soapyigu)
 
+=======
+# Swift-
+Belajar Swift
+>>>>>>> 6d9f701698ff658a194e0719d8077401eee6ce5c
